@@ -6,6 +6,7 @@ Precisa de um arquivo em .txt, nomeado de lista, na pasta de execução:
 ![image](https://user-images.githubusercontent.com/23614860/186415492-546b88b2-33d2-4ecb-a832-bd8f4cebf5c6.png)
 
 Formato de entrada (separado por linhas):
+
 ![image](https://user-images.githubusercontent.com/23614860/186416100-b9682eae-1323-4f11-9823-aab849fe364c.png)
 
 
